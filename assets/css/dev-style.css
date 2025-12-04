@@ -17,12 +17,6 @@ body {
     height: 30px;
 }
 
-/* -------------------------------------------------------
-   MAIN HEADER LAYOUT
-------------------------------------------------------- */
-.header-1 {
-    background-color: #d9d9d9;
-}
 
 .header-main {
     display: flex;
@@ -177,13 +171,6 @@ body {
     color: #7a6146;
     font-weight: 700;
     letter-spacing: 1px;
-}
-
-.subtitle {
-    color: #000 !important;
-    font-weight: 700 !important;
-    font-size: 18px;
-    letter-spacing: 0.8px;
 }
 
 .cta-modern-title {
